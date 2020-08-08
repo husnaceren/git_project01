@@ -6,6 +6,7 @@ public class Feature {
 		System.out.println("This is my commit from feature branch");
 		System.out.println("This isthe first commit from remote master branch");
 		System.out.println("This is the second commit from the remote master branch");
+		System.out.println("This is the third commit from the remote master repo");
 		
 
 	}
